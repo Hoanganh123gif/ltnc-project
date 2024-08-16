@@ -1,4 +1,4 @@
+Demo game
+Cách tải game
 
 
-Demo game:
-Gioi thieu game 
