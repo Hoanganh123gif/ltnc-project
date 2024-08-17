@@ -76,7 +76,16 @@ Background game ấn tượng.
 
 4. Về source code game
 
-   Source code game
+   Source code game được sắp xếp và nằm trong source
+   
+   Tổng quát về file source:
+
+   gamme manager:File này định nghĩa một lớp ResourceManager trong C++ dùng để quản lý các tài nguyên (textures, fonts, sounds, music) trong một trò chơi. Mỗi loại tài nguyên được lưu trữ trong một std::map, cho phép truy cập, thêm, xóa, và lấy tài nguyên dễ dàng.
+
+   game object:File này bao gồm các mã định nghĩa một lớp Animation trong C++ để quản lý và điều khiển hoạt ảnh (animation) của các đối tượng trong trò chơi sử dụng thư viện SFML. Lớp này xử lý việc chia một tấm hình (sprite sheet) thành nhiều khung hình và chuyển đổi qua lại giữa các khung hình để tạo hiệu ứng hoạt ảnh.
+
+   game state manager:File nay bao gồm các mã để cài đặt các nút setting trong game bao gồm: điểm số, end và một số các cài đặt khác
+   
      
 
 
