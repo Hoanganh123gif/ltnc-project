@@ -29,7 +29,7 @@ a. Cách 1: Không bao gồm code
 
 Tải game tại link github:
 
-Sau đó giải nén vào game vào thư mục bất kì và vào JackAdventure.exe để khới động game.
+Sau đó giải nén vào game vào thư mục bất kì và vào folder debug vào JackAdventure.exe để khới động game.
 
 b. Cách 2:Bao gồm code và có thể biên dịch
 
