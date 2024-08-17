@@ -34,6 +34,7 @@ Sau đó giải nén vào game vào thư mục bất kì và vào JackAdventure.
 b. Cách 2:Bao gồm code và có thể biên dịch
 B1: Tải link source code tại:
 B2: Tải visual studio. Ở đây mình dùng visual studio 2022
+
 B3: Vào visual stuidio chạy vào thư mục source để chạy code game 
 
 1. Tính năng game 
