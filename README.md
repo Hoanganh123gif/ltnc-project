@@ -2,7 +2,7 @@ Giới thiệu game
 
 video giói thiệu game:
 
-Jack adventure la game thuộc thể loại giải trí.Trong game bạn sẽ được vào vai jack để phưu lưu và tránh những con quái vật.
+Jack adventure la game thuộc thể loại giải trí. Trong game bạn sẽ được vào vai jack để phưu lưu và tránh những con quái vật.
 
 0. Cách tải game
 
