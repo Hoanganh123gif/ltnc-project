@@ -16,8 +16,6 @@ a. Về nhân vật
 
 b. Cơ chế chơi 
 
-c.Quái vật 
-
 d. Tính điểm 
 
 4. Về source code game
@@ -93,7 +91,7 @@ Background game ấn tượng.
 
    Forder chứa các tài nguyên trong game: Data.
    
-   Bao gồm các hình animation và âm thanh của game.
+   Bao gồm các hình ảnh nhân vật, boss, animation và âm thanh của game.
    
      
 
